@@ -1,7 +1,7 @@
 # Zcale
 <br>
 <br>
-You can download the CAD data from the model number of the parts. <br>
+You can download the 3D-CAD data from the model number of the parts. <br>
 <br>
 PARTcommunity<br>
 http://b2b.partcommunity.com/<br>

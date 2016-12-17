@@ -16,7 +16,6 @@ Version 2013 and newer: Open a new Finder window, press and hold the Option key 
 the click Go in the menu bar > Library > Application Support > SketchUp # > SketchUp > Plugins<br>
 Version 8 and older: [YOUR USER NAME]/Library/Application Support/Google SketchUp 8/SketchUp/plugins<br>
 <br>
-<br>
 Windows - the default location is:<br>
 <br>
 SketchUp 2017: C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2017\SketchUp\Plugins<br>
@@ -25,6 +24,5 @@ SketchUp 2015: C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2015\Ske
 SketchUp 2014: C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2014\SketchUp\Plugins<br>
 SketchUp 2013: C:\Program Files\SketchUp\SketchUp 20xx\Plugins.<br>
 SketchUp 8 and older: C:\Program Files\Google\Google SketchUp #\Plugins.<br>
-<br>
 <br>
 Restart sketchup and use the plugin from the 'draw' menu.<br>

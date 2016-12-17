@@ -23,6 +23,6 @@ SketchUp 2016: C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2016\Ske
 SketchUp 2015: C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2015\SketchUp\Plugins<br>
 SketchUp 2014: C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2014\SketchUp\Plugins<br>
 SketchUp 2013: C:\Program Files\SketchUp\SketchUp 20xx\Plugins.<br>
-SketchUp 8 and older: C:\Program Files\Google\Google SketchUp #\Plugins.<br>
+SketchUp 8 and older: C:\Program Files\Google\Google SketchUp X\Plugins.<br>
 <br>
 Restart sketchup and use the plugin from the 'draw' menu.<br>

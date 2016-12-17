@@ -1,6 +1,6 @@
 # Zcale
 <br>
-Install the gear.3.rb file to your sketchup Plugins directory. <br>
+Install the Zcale-selection.rb file to your sketchup Plugins directory. <br>
 <br>
 This directory will be in a different location depending on your sketchup version.<br>
 <br>

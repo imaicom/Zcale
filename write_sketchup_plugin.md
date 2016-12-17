@@ -5,7 +5,7 @@ https://drive.google.com/file/d/0B1JtraED8shnNGZkNzM4ZmQtMTVmNS00Zjc4LWI2NjMtYzl
 Other useful plugin<BR>
 http://www.thingiverse.com/groups/sketchup/topic:103<BR>
 <BR>
-Ruby language study site<BR>
+Ruby language study site(for Japanese)<BR>
 http://dotinstall.com/lessons/basic_ruby_v3<BR>
 <BR>
 SketchUp Ruby API <BR>

@@ -17,4 +17,6 @@ https://www.simplify3d.com<BR>
 Beijing Tiertime Technology<BR>
 http://www.tiertime.com/product/desktop-3d-printer/up-plus-2<BR>
 http://www.tiertime.com/support/download<BR>
-
+<BR>
+How to use sketchup<BR>
+https://www.youtube.com/results?search_query=how+to+use+sketchup<BR>

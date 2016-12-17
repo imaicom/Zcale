@@ -14,3 +14,6 @@ https://www.simplify3d.com<BR>
 Beijing Tiertime Technology<BR>
 http://www.tiertime.com/product/desktop-3d-printer/up-plus-2<BR>
 http://www.tiertime.com/support/download<BR>
+<BR>
+Creating a SketchUp Plugin<BR>
+http://sketchupplugins.com/about/creating-a-sketchup-plugin/<BR>

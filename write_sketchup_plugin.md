@@ -20,3 +20,7 @@ http://www.tiertime.com/support/download<BR>
 <BR>
 How to use sketchup<BR>
 https://www.youtube.com/results?search_query=how+to+use+sketchup<BR>
+<BR>
+Other Reference<BR>
+http://www.pulton.co.jp/pdf/chain/pdf/dc_1.pdf<BR>
+https://www.amazon.co.jp/gp/product/4542902161/<BR>

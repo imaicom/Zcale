@@ -10,3 +10,7 @@ http://dotinstall.com/lessons/basic_ruby_v3<BR>
 <BR>
 3D Printing Slicing Software(149 USD)<BR>
 https://www.simplify3d.com<BR>
+<BR>
+Beijing Tiertime Technology<BR>
+http://www.tiertime.com/product/desktop-3d-printer/up-plus-2<BR>
+http://www.tiertime.com/support/download<BR>

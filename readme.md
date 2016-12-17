@@ -6,7 +6,7 @@ You can download the 3D-CAD data from the model number of the parts. <br>
 PARTcommunity<br>
 http://b2b.partcommunity.com/<br>
 <br>
-Unfortunately , read one millimeter wrong one inch . I tried to contact support . It seems not to repair . Can be used if the size to 0.03937007874 (1mm/25.4mm). I wrote the sketchup plugin.<br>
+Unfortunately , read one millimeter wrong one inch . I tried to contact support . It seems not to repair . Can be used if the size to 0.03937007874 (1mm/25.4mm). I wrote the sketchup plugin. You can reduce the grouped items to their original size.<br>
 <br>
 Install the Zcale-selection.rb file to your sketchup Plugins directory. This directory will be in a different location depending on your sketchup version.<br>
 <br>

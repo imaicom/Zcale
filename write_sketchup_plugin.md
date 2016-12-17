@@ -7,3 +7,6 @@ http://www.thingiverse.com/groups/sketchup/topic:103<BR>
 <BR>
 Ruby language study site<BR>
 http://dotinstall.com/lessons/basic_ruby_v3<BR>
+<BR>
+3D Printing Slicing Software<BR>
+https://www.simplify3d.com<BR>

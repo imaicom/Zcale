@@ -21,7 +21,6 @@ end; # def Zcale_selection.main
 end; # module Zcale_selection
 
 if not file_loaded?(__FILE__)
-#	UI.menu("Draw").add_separator 
 	UI.menu("Draw").add_item("Zcale 1 inch to 1 mm") { Zcale_selection.main }
 	file_loaded(__FILE__)
 end

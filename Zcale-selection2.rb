@@ -15,6 +15,7 @@ if sel.length > 0
     end
   end
   mod.commit_operation; # "Zcale_selection 1 feet to 1 mm"
+  Sketchup.send_action('viewZoomToSelection:')
 end
 
 end; # def Zcale_selection.main

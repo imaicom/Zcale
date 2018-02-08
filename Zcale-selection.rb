@@ -16,12 +16,15 @@ if sel.length > 0
   end
   mod.commit_operation; # "Zcale_selection 1 inch to 1 mm"
   Sketchup.send_action('viewZoomToSelection:')
+  prompts = ["End of Zcale_selection 1 inch to 1 mm"]  
+  UI.messagebox prompts
 end
 
 end; # def Zcale_selection.main
 end; # module Zcale_selection
 
 if not file_loaded?(__FILE__)
+#	UI.menu("Draw").add_separator 
 	UI.menu("Draw").add_item("Zcale 1 inch to 1 mm") { Zcale_selection.main }
 	file_loaded(__FILE__)
 end

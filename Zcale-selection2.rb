@@ -1,5 +1,5 @@
-module Zcale_selection
-def Zcale_selection.main
+module Zcale_selection2
+def Zcale_selection2.main
 
 mod  = Sketchup.active_model
 ent  = mod.active_entities
@@ -16,13 +16,15 @@ if sel.length > 0
   end
   mod.commit_operation; # "Zcale_selection 1 feet to 1 mm"
   Sketchup.send_action('viewZoomToSelection:')
+  prompts = ["End of Zcale_selection 1 feet to 1 mm"]  
+  UI.messagebox prompts
 end
 
-end; # def Zcale_selection.main
-end; # module Zcale_selection
+end; # def Zcale_selection2.main
+end; # module Zcale_selection2
 
 if not file_loaded?(__FILE__)
 #	UI.menu("Draw").add_separator 
-	UI.menu("Draw").add_item("Zcale 1 feet to 1 mm") { Zcale_selection.main }
+	UI.menu("Draw").add_item("Zcale 1 feet to 1 mm") { Zcale_selection2.main }
 	file_loaded(__FILE__)
 end

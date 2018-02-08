@@ -28,7 +28,7 @@ if not file_loaded?(__FILE__)
 	UI.menu("Draw").add_item("Zcale 1 feet to 1 mm") { Zcale_selection2.main }
 	
 	UI.add_context_menu_handler do |context_menu|
-	  context_menu.add_item("Zcale 1 feet to 1 mm") {Zcale_selection2.main}
+	  context_menu.add_item("Zcale 1 feet to 1 mm") { Zcale_selection2.main }
 	end
 
 	file_loaded(__FILE__)
